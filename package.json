@@ -1,0 +1,23 @@
+{
+  "name": "tabletoppa",
+  "version": "0.1.0",
+  "description": "tabletop simulator online",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "socket.io": "*",
+    "shortid": "^2.2.15"
+  },
+  "keywords": [
+    "tabletoppa",
+    "tabletopper",
+    "tabletop",
+    "simulator",
+    "online",
+    "multiplayer"
+  ],
+  "license": "MIT"
+}
